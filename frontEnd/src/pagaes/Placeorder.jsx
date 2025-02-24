@@ -1,6 +1,6 @@
 import React, { useContext, useEffect, useState } from 'react'
 import Title from '../Components/Title'
-import CardTotal from '../Components/cardTotal'
+import CardTotal from '../Components/CardTotal'
 import { assets } from '../assets/assets'
 import { ShopContext } from '../Context/ShopContext'
 import axios from 'axios'
